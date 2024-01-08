@@ -1,0 +1,34 @@
+C:/Users/seraf/source/repos/Lab_07/Lab_07/bin/Debug/net6.0/Lab_07.deps.json
+C:/Users/seraf/source/repos/Lab_07/Lab_07/bin/Debug/net6.0/Lab_07.dll
+C:/Users/seraf/source/repos/Lab_07/Lab_07/bin/Debug/net6.0/Lab_07.pdb
+C:/Users/seraf/source/repos/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/seraf/source/repos/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.AssemblyInfoInputs.cache
+C:/Users/seraf/source/repos/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.AssemblyInfo.cs
+C:/Users/seraf/source/repos/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.csproj.CoreCompileInputs.cache
+C:/Users/seraf/source/repos/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.dll
+C:/Users/seraf/source/repos/Lab_07/Lab_07/obj/Debug/net6.0/refint/Lab_07.dll
+C:/Users/seraf/source/repos/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.pdb
+C:/Users/seraf/source/repos/Lab_07/Lab_07/obj/Debug/net6.0/ref/Lab_07.dll
+/Users/yankovezin/Downloads/Lab_07/Lab_07/bin/Debug/net6.0/Lab_07.deps.json
+/Users/yankovezin/Downloads/Lab_07/Lab_07/bin/Debug/net6.0/Lab_07.dll
+/Users/yankovezin/Downloads/Lab_07/Lab_07/bin/Debug/net6.0/Lab_07.pdb
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.csproj.AssemblyReference.cache
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.AssemblyInfoInputs.cache
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.AssemblyInfo.cs
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.csproj.CoreCompileInputs.cache
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.dll
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/refint/Lab_07.dll
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/Lab_07.pdb
+/Users/yankovezin/Downloads/Lab_07/Lab_07/obj/Debug/net6.0/ref/Lab_07.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\bin\Debug\net6.0\Lab_07.deps.json
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\bin\Debug\net6.0\Lab_07.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\bin\Debug\net6.0\Lab_07.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\obj\Debug\net6.0\Lab_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\obj\Debug\net6.0\Lab_07.AssemblyInfoInputs.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\obj\Debug\net6.0\Lab_07.AssemblyInfo.cs
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\obj\Debug\net6.0\Lab_07.csproj.CoreCompileInputs.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\obj\Debug\net6.0\Lab_07.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\obj\Debug\net6.0\refint\Lab_07.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\obj\Debug\net6.0\Lab_07.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\Lab_07\obj\Debug\net6.0\ref\Lab_07.dll

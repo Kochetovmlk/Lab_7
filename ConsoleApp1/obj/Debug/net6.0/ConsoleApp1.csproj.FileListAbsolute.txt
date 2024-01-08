@@ -1,0 +1,54 @@
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.exe
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/bin/Debug/net6.0/Lab_07.dll
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/bin/Debug/net6.0/Lab_07.pdb
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CopyComplete
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/seraf/source/repos/Lab_07/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/bin/Debug/net6.0/Lab_07.dll
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/bin/Debug/net6.0/Lab_07.pdb
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CopyComplete
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+/Users/yankovezin/Downloads/Lab_07/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\bin\Debug\net6.0\Lab_07.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\bin\Debug\net6.0\Lab_07.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\mikha\OneDrive\Рабочий стол\Lab_07\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
